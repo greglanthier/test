@@ -1,3 +1,3 @@
 # test
 
-I can't believe this works!  Tada!
+I can't believe this works!

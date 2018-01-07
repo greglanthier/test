@@ -1,5 +1,3 @@
 # test
 
-I can't believe this works!
-
-Cool!
+This appears to work :-)

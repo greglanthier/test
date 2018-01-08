@@ -1,3 +1,1 @@
-# test
-
-This appears to work :-)
+Sample content.
